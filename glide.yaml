@@ -1,0 +1,4 @@
+package: github.com/maddyonline/verify_echo
+import:
+- package: github.com/labstack/echo
+  version: ^3.0.0-beta.3
